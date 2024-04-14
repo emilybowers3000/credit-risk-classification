@@ -1,4 +1,4 @@
-# Module 12 Report Template
+# Module 12 Credit Analysis Report 
 
 ## Overview of the Analysis
 
